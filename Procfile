@@ -1,1 +1,1 @@
-worker: node new-age.js
+worker: node gulpfile.js

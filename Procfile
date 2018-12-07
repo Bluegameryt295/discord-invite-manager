@@ -1,1 +1,1 @@
-worker: node gulpfile.js
+worker: node node_js

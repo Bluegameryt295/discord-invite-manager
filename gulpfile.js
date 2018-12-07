@@ -4,7 +4,7 @@ const header = require('gulp-header');
 const cleanCSS = require('gulp-clean-css');
 const rename = require("gulp-rename");
 const uglify = require('gulp-uglify');
-conct pkg = require('./package.json');
+const pkg = require('./package.json');
 const browserSync = require('browser-sync').create();
 const gulpCopy = require('gulp-copy');
 

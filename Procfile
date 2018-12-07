@@ -1,1 +1,1 @@
-worker: node node_js
+worker: node_js

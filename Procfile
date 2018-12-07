@@ -1,1 +1,1 @@
-worker: node_js
+worker: node new-age.js
